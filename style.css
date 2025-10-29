@@ -1,3 +1,14 @@
 body{
-    backgnound-color:pink;
+    
+    backgnound-color:pink;(233, 240, 240,0,788)
+    font-family:playwrite deutschland grundschrift guides;
+    
+}
+    header{
+        font-size:50pk;
+        text-align:center;
+        background-color: deeppink;
+        color: black;
+        border:dotted;
+    }
 }
