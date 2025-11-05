@@ -7,8 +7,14 @@ body{
     header{
         font-size:50pk;
         text-align:center;
-        background-color: deeppink;
+        background-color: rgba(255, 20, 145, 0.801);
         color: black;
         border:dotted;
+        .top1{
+         text-align:center  
+        background-color:pink;
+        color: black; 
+        padding-bottom: 40px;
+        }
     }
 }
